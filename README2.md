@@ -1,4 +1,4 @@
-Proyecto IoT: Sistema Inteligente de Detección de Fugas de Agua con Arduino + ESP
+    Proyecto IoT: Sistema Inteligente de Detección de Fugas de Agua con Arduino + ESP
     Contexto – ODS 6
 El Objetivo de Desarrollo Sostenible (ODS) 6 busca garantizar la disponibilidad y gestión sostenible del agua para todos.
 Uno de los grandes problemas es la pérdida de agua potable por fugas invisibles en viviendas y redes, lo que genera:
