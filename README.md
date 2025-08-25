@@ -1,11 +1,11 @@
-# Equipo 0X - Fundamentos de Diseño 2025-2  
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 01 - Fundamentos de Diseño 2025-2  
+### Carrera de Ingeniería Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 0X** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 01** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
