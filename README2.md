@@ -37,6 +37,7 @@ Fuente de alimentación 5V–12V – según válvula y sensores.
         C --> J[ESP8266 / ESP32]
         J --> K[(Dashboard Web / App Móvil)]
 
+   
     Flujo de trabajo del sistema
 El sensor de flujo mide el caudal y los litros consumidos.
 El sensor de humedad detecta presencia de agua en caso de fuga.
