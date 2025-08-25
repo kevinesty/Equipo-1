@@ -27,10 +27,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante_1.jpeg" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante_2.jpeg" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante_3.jpeg" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante_4.jpeg" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante_1.jpeg" width="90"/> | **Kevin** | Líder del desarrollo de sistemas | Tecnología |
+| <img src="/Recursos/Imágenes/integrante_2.jpeg" width="90"/> | **Ivanna** | Líder de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante_3.jpeg" width="90"/> | **Lumeris** | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante_4.jpeg" width="90"/> | **Angello** | Encargado del repositorio | Comunicación científica, redacción técnica |
 
 
 ---
