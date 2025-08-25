@@ -4,6 +4,18 @@ Proyecto: Jardín Hidropónico Automatizado con Arduino
 
 Tema: Agua y agricultura, ODS 6: Agua limpia y saneamiento
 
+Integrantes y Jefes de Equipo
+
+° Jefe de Proyecto: Ivana Francesca Gygax Malca
+
+Equipo:
+
+° Kevin Esty Carvallo Neciosup - JEFE DE LA CONECCIÓN DEL ARDUINO
+
+° Bryam Angello Areche Ezpeza - JEFE DEL REPOSITORIO
+
+° Lumeris Sihuincha Palacín - JEFE DE DISEÑO
+
 <img width="358" height="488" alt="image" src="https://github.com/user-attachments/assets/dfec6b8f-de22-44cf-a521-91a19284f2d6" />
 
 DESCRIPCIÓN GENERAL
@@ -70,14 +82,3 @@ CONCLUSIONES
 
 El diseño de un jardín hidropónico automatizado con Arduino es una solución tecnológica viable para fomentar la agricultura sostenible. Permite optimizar recursos como el agua y nutrientes, y reduce la dependencia de métodos tradicionales que son menos eficientes. Además, ofrece una herramienta educativa para comprender mejor la relación entre tecnología, agricultura y sostenibilidad, apoyando los objetivos de desarrollo sostenible.
 
-Integrantes y Jefes de Equipo
-
-° Jefe de Proyecto: Ivana Francesca Gygax Malca
-
-Equipo:
-
-° Kevin Esty Carvallo Neciosup - JEFE DE LA CONECCIÓN DEL ARDUINO
-
-° Bryam Angello Areche Ezpeza - JEFE DEL REPOSITORIO
-
-° Lumeris Sihuincha Palacín - JEFE DE DISEÑO
