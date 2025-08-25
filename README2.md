@@ -25,8 +25,7 @@ Relé + válvula solenoide – corte automático del agua.
 Protoboard, jumpers y resistencias – para el montaje.
 Fuente de alimentación 5V–12V – según válvula y sensores.
 
-    ```mermaid
-flowchart TD
+    Diagrama de funcionamiento
     A[Tubería con agua] --> B[Sensor de flujo YF-S201]
     B --> C[Arduino UNO/Nano]
     D[Sensor de humedad FC-28] --> C
@@ -66,3 +65,6 @@ Reducir el desperdicio de agua en hogares y comunidades.
 Ahorrar costos por facturación y mantenimiento.
 Concienciar sobre el uso responsable del agua.
 Contribuir directamente al ODS 6: Agua limpia y saneamiento.
+
+    Idea del proyecto:
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/da78cc03-fea2-42d7-ae73-adeb65107bcb" />
