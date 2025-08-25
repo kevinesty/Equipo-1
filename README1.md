@@ -19,35 +19,65 @@ Para el proyecto, se considera que la fuente principal de agua será el agua pot
 
 OBJETIVOS
 
-General:
+# General:
 Desarrollar un sistema automatizado para un jardín hidropónico que permita un cultivo eficiente, sostenible y de bajo consumo hídrico.
 
-Específicos:
+# Específicos:
 
-Implementar sensores para monitorear pH, humedad y temperatura del agua y ambiente.
+1.- Implementar sensores para monitorear pH, humedad y temperatura del agua y ambiente.
 
-Controlar automáticamente el suministro de nutrientes y agua a las plantas.
+2.- Controlar automáticamente el suministro de nutrientes y agua a las plantas.
 
-Crear una interfaz sencilla para visualizar datos en tiempo real y ajustar parámetros.
+3.- Crear una interfaz sencilla para visualizar datos en tiempo real y ajustar parámetros.
 
-Promover prácticas agrícolas sostenibles y responsables con el medio ambiente.
+4.- Promover prácticas agrícolas sostenibles y responsables con el medio ambiente.
 
 COMPONENTES PRINCIPALES
 
-Arduino Uno o similar (microcontrolador)
+° Arduino Uno o similar (microcontrolador)
 
-Sensores: sensor de pH, sensor de humedad, sensor de temperatura
+° Sensores: sensor de humedad, sensor de temperatura
 
-Bomba de agua para irrigación
+° Bomba de agua para irrigación
 
-Relés para controlar dispositivos eléctricos
+° Relés para controlar dispositivos eléctricos
 
-Tubos y recipiente para el cultivo hidropónico
+° Tubos y recipiente para el cultivo hidropónico
 
-Fuente de alimentación
+° Fuente de alimentación
 
-Pantalla LCD o módulo de comunicación para mostrar datos
+° Pantalla LCD o módulo de comunicación para mostrar datos
+
+° Módulo wifi (ESP8266 o ESP32)
 
 RELACIÓN CON LA ODS 6
 
 El proyecto contribuye directamente al ODS 6, ya que optimiza el uso del agua en la agricultura, reduciendo el desperdicio y mejorando la calidad del agua utilizada mediante monitoreo constante. La hidroponía automatizada facilita un manejo eficiente de recursos hídricos, promueve el uso responsable del agua y ayuda a asegurar la disponibilidad de agua limpia para futuras generaciones.
+
+DESAFÍOS
+
+° Integrar y calibrar correctamente los sensores para obtener datos precisos.
+
+° Automatizar el sistema de manera que sea confiable y fácil de mantener.
+
+° Manejar el costo y disponibilidad de componentes electrónicos.
+
+° Asegurar que el sistema funcione de forma continua sin intervención constante.
+
+° Adaptar el diseño a diferentes tipos de cultivos y condiciones ambientales.
+
+CONCLUSIONES 
+
+El diseño de un jardín hidropónico automatizado con Arduino es una solución tecnológica viable para fomentar la agricultura sostenible. Permite optimizar recursos como el agua y nutrientes, y reduce la dependencia de métodos tradicionales que son menos eficientes. Además, ofrece una herramienta educativa para comprender mejor la relación entre tecnología, agricultura y sostenibilidad, apoyando los objetivos de desarrollo sostenible.
+
+Integrantes y Jefes de Equipo
+
+° Jefe de Proyecto: Ivana Francesca Gygax Malca
+
+Equipo:
+
+° Kevin Esty Carvallo Neciosup - JEFE DE LA CONECCIÓN DEL ARDUINO
+
+° Bryam Angello Areche Ezpeza - JEFE DEL REPOSITORIO
+
+° Lumeris Sihuincha Palacín - JEFE DE DISEÑO
