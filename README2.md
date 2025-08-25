@@ -25,19 +25,7 @@ Relé + válvula solenoide – corte automático del agua.
 Protoboard, jumpers y resistencias – para el montaje.
 Fuente de alimentación 5V–12V – según válvula y sensores.
 
-    Diagrama de funcionamiento
-        A[Tubería con agua] --> B[Sensor de flujo YF-S201]
-        B --> C[Arduino UNO/Nano]
-        D[Sensor de humedad FC-28] --> C
-        C --> E[LCD 16x2]
-        C --> F[LEDs indicadores]
-        C --> G[Buzzer de alerta]
-        C --> H[Relé]
-        H --> I[Válvula solenoide]
-        C --> J[ESP8266 / ESP32]
-        J --> K[(Dashboard Web / App Móvil)]
-
-   Flujo de trabajo del sistema
+    Flujo de trabajo del sistema
 El sensor de flujo mide el caudal y los litros consumidos.
 El sensor de humedad detecta presencia de agua en caso de fuga.
 El Arduino procesa la información y:
