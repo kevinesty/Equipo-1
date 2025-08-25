@@ -7,7 +7,7 @@ Tema: Agua y agricultura, ODS 6: Agua limpia y saneamiento
 <img width="358" height="488" alt="image" src="https://github.com/user-attachments/assets/dfec6b8f-de22-44cf-a521-91a19284f2d6" />
 
 DESCRIPCIÓN GENERAL
-El proyecto consiste en diseñar y construir un jardín hidropónico automatizado utilizando la plataforma Arduino. Este sistema permite cultivar plantas sin suelo, usando soluciones nutritivas en agua, controlando parámetros clave como el pH, la humedad y la temperatura. La automatización facilita el monitoreo constante y ajuste de estas variables para optimizar el crecimiento de las plantas, reducir el consumo de agua y minimizar el uso de químicos.
+El proyecto consiste en diseñar y construir un jardín hidropónico automatizado utilizando la plataforma Arduino. Este sistema permite cultivar plantas sin suelo, usando soluciones nutritivas en agua, controlando parámetros clave como la humedad y la temperatura. La automatización facilita el monitoreo constante y ajuste de estas variables para optimizar el crecimiento de las plantas, reducir el consumo de agua y minimizar el uso de químicos.
 
 PROMEBLEMATICA EN LIMA
 
@@ -24,7 +24,7 @@ Desarrollar un sistema automatizado para un jardín hidropónico que permita un 
 
 # Específicos:
 
-1.- Implementar sensores para monitorear pH, humedad y temperatura del agua y ambiente.
+1.- Implementar sensores para monitorear humedad y temperatura del agua y ambiente.
 
 2.- Controlar automáticamente el suministro de nutrientes y agua a las plantas.
 
