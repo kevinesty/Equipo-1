@@ -1,6 +1,9 @@
 # FUNDAMENTOS DE DISEÑO EN INGENIERÍA - EQUIPO 1
+
 Proyecto: Jardín Hidropónico Automatizado con Arduino
+
 Tema: Agua y agricultura, ODS 6: Agua limpia y saneamiento
+
            <img width="363" height="584" alt="image" src="https://github.com/user-attachments/assets/24b921a2-b6e3-4464-ac48-3ff9af2ffcbb" />
 
 Descripción General
