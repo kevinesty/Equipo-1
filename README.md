@@ -36,7 +36,7 @@ Impulsamos la industrialización sostenible e inclusiva mediante la optimizació
 ---
 
 ## 📌 Resumen Final  
-Nuestro equipo multidisciplinario está integrado por: Kevin, Líder de Desarrollo de Sistemas ; Ivanna, Líder de Investigación ; Lumeris, Diseñadora ; y Angello, Encargado del Repositorio.
+Nuestro equipo multidisciplinario está integrado por: Kevin Esty Carvallo Neciosup, Líder de Desarrollo de Sistemas ; Ivana Francesca Gygax Malca, Líder de Investigación ; Sihuincha Palacín Shedira Lumeris, Diseñadora ; Bryam Angello Areche Espeza, Encargado del Repositorio.
 ¿Qué nos motiva?
 Nos mueve el compromiso de utilizar el conocimiento técnico y creativo para construir soluciones que enfrenten problemas reales, combinando rigor científico, innovación tecnológica y sensibilidad socioambiental. Creemos en el poder de la colaboración interdisciplinaria para impulsar cambios significativos y escalables.
 Enfoque en ODS
