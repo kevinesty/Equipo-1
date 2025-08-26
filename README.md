@@ -18,7 +18,7 @@ Impulsamos la industrialización sostenible e inclusiva mediante la optimizació
 ## 📸 Fotografía del Equipo  
 <p align="center">
   <img src="/Recursos/Imágenes/equipo.png" alt="Foto grupal del equipo" width="500"/><br>
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 1</em>
 </p>
 
 ---
