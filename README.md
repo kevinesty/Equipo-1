@@ -37,8 +37,10 @@ Meta 3.8: Garantizar el acceso equitativo a servicios de salud esenciales de cal
 ---
 
 ## 📌 Resumen Final  
-Nuestro equipo multidisciplinario está integrado por: Kevin Esty Carvallo Neciosup, Líder de Desarrollo de Sistemas ; Ivana Francesca Gygax Malca, Líder de Investigación ; Sihuincha Palacín Shedira Lumeris, Diseñadora ; Bryam Angello Areche Espeza, Encargado del Repositorio.
+Nuestro equipo multidisciplinario está integrado por: Kevin Esty Carvallo Neciosup, Líder de Desarrollo de Sistemas; Ivana Francesca Gygax Malca, Líder de Investigación; Sihuincha Palacín Shedira Lumeris, Diseñadora; y Bryam Angello Areche Espeza, Encargado del Repositorio.
+
 ¿Qué nos motiva?
 Nos mueve el compromiso de utilizar el conocimiento técnico y creativo para construir soluciones que enfrenten problemas reales, combinando rigor científico, innovación tecnológica y sensibilidad socioambiental. Creemos en el poder de la colaboración interdisciplinaria para impulsar cambios significativos y escalables.
+
 Enfoque en ODS
-Durante este curso, orientaremos nuestros esfuerzos hacia el Objetivo de Desarrollo Sostenible 9: Industria, Innovación e Infraestructura. Nos concentraremos en el desarrollo de una propuesta integral que promueva la implementación de infraestructuras resilientes, impulse la industrialización sostenible y optimice procesos mediante el uso de datos y modelos de economía circular.  
+Durante este curso, orientaremos nuestros esfuerzos hacia el Objetivo de Desarrollo Sostenible 3: Salud y Bienestar, específicamente la Meta 3.8, que busca garantizar el acceso equitativo a servicios de salud esenciales de calidad y a tecnologías médicas seguras y eficaces. Nuestro proyecto se centra en la fabricación de piel sintética mediante ingeniería de tejidos, como una alternativa innovadora para mejorar los tratamientos de quemaduras, lesiones y enfermedades cutáneas. Con ello, buscamos aportar a una cobertura sanitaria más inclusiva, accesible y sostenible, generando impacto positivo en la calidad de vida de las personas.
