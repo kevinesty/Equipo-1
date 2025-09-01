@@ -6,12 +6,11 @@
 
 ## 🌍 Descripción del Equipo  
 Somos el Equipo 01 del curso Fundamentos de Diseño 2025-2, conformado por estudiantes de las carreras de Ingeniería Industrial e Ingeniería Informática.
-Nuestro objetivo es aplicar una metodología de diseño para generar soluciones innovadoras con impacto
-social, tecnológico y ambiental. Esto lo logramos integrando un enfoque sistémico-industrial y de desarrollo tecnológico.
+Nuestro objetivo es aplicar una metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental. Esto lo logramos integrando un enfoque sistémico-industrial y de desarrollo tecnológico.
 
 Nos interesa trabajar en el siguiente Objetivo de Desarrollo Sostenible (ODS):
-ODS 9: Industria, Innovación e Infraestructura
-Impulsamos la industrialización sostenible e inclusiva mediante la optimización de procesos con análisis de datos, el desarrollo de infraestructuras digitales escalables, la implementación de economía circular en cadenas de suministro y el diseño de sistemas para la gestión eficiente de recursos.  
+ODS 3: Salud y Bienestar
+Meta 3.8: Garantizar el acceso equitativo a servicios de salud esenciales de calidad, incluyendo soluciones médicas innovadoras como la piel sintética, que permitan ampliar la cobertura en tratamientos de quemaduras, lesiones y enfermedades cutáneas, asegurando que todas las personas tengan acceso a tecnologías seguras, eficaces y asequibles para mejorar su bienestar y calidad de vida.
 
 ---
 
