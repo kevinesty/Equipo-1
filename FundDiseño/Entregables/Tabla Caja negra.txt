@@ -1,0 +1,2 @@
+Tabla Caja negra
+EntradasMaterialesHidrogel base (alginato/GelMA), extracto de antocianinasEstímulos externosFármacos, soluciones de pH conocido para calibraciónEnergíaAlimentación eléctrica para bioimpresora y sistema ArduinoSalidaDatos primariosValor numérico de pH en tiempo real, gráfica pH vs. TiempoSeñalCambio de color visible en el hidrogel (ej. rosa a azul-verdoso)AlertaNotificación al superar umbral de pH predefinido
