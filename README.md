@@ -1,5 +1,5 @@
 # Equipo 01 - Fundamentos de Diseño 2025-2  
-### Carrera de Ingeniería Informática / Industrial  
+### Carreras de Ingeniería Informática e Industrial  
 **Universidad Peruana Cayetano Heredia**
 
 ---
