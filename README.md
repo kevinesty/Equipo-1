@@ -12,7 +12,7 @@ Nos interesa trabajar en el siguiente Objetivo de Desarrollo Sostenible (ODS):
 
 ODS 3: Salud y Bienestar
 
-Meta 3.8: Garantizar el acceso equitativo a servicios de salud esenciales de calidad, incluyendo soluciones médicas innovadoras como la piel sintética, que permitan ampliar la cobertura en tratamientos de quemaduras, lesiones y enfermedades cutáneas, asegurando que todas las personas tengan acceso a tecnologías seguras, eficaces y asequibles para mejorar su bienestar y calidad de vida.
+Meta 3.8: Garantizar el acceso equitativo a servicios de salud esenciales de calidad, incluyendo soluciones médicas innovadoras como el medidor de pH integrado con polímeros conductores, que permitan ampliar la cobertura en detección de casos de acidosis y alcalosis, así como también una confirmación de infecciones cutáneas, asegurando que todas las personas tengan acceso a tecnologías seguras, eficaces y asequibles para mejorar su bienestar y calidad de vida.
 
 ---
 
@@ -29,7 +29,7 @@ Meta 3.8: Garantizar el acceso equitativo a servicios de salud esenciales de cal
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/integrante_1.jpeg" width="90"/> | **Kevin** | Líder del desarrollo de sistemas | Tecnología e implementación de programas|
-| <img src="/Recursos/Imágenes/integrante_2.jpeg" width="90"/> | **Ivanna** | Líder de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante_2.jpeg" width="90"/> | **Ivana** | Líder de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante_3.jpeg" width="90"/> | **Lumeris** | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante_4.jpeg" width="90"/> | **Angello** | Encargado del repositorio | Comunicación científica, redacción técnica |
 
@@ -37,10 +37,10 @@ Meta 3.8: Garantizar el acceso equitativo a servicios de salud esenciales de cal
 ---
 
 ## 📌 Resumen Final  
-Nuestro equipo multidisciplinario está integrado por: Kevin Esty Carvallo Neciosup, Líder de Desarrollo de Sistemas; Ivana Francesca Gygax Malca, Líder de Investigación; Sihuincha Palacín Shedira Lumeris, Diseñadora; y Bryam Angello Areche Espeza, Encargado del Repositorio.
+Nuestro equipo multidisciplinario está integrado por: Kevin Esty Carvallo Neciosup, Líder de Desarrollo de Sistemas; Ivana Francesca Gygax Malca, Líder de Investigación; Shedira Lumeris Sihuincha Palacín, Diseñadora; y Bryam Angello Areche Espeza, Encargado del Repositorio.
 
 ¿Qué nos motiva?
 Nos mueve el compromiso de utilizar el conocimiento técnico y creativo para construir soluciones que enfrenten problemas reales, combinando rigor científico, innovación tecnológica y sensibilidad socioambiental. Creemos en el poder de la colaboración interdisciplinaria para impulsar cambios significativos y escalables.
 
 Enfoque en ODS
-Durante este curso, orientaremos nuestros esfuerzos hacia el Objetivo de Desarrollo Sostenible 3: Salud y Bienestar, específicamente la Meta 3.8, que busca garantizar el acceso equitativo a servicios de salud esenciales de calidad y a tecnologías médicas seguras y eficaces. Nuestro proyecto se centra en la fabricación de piel sintética mediante ingeniería de tejidos, como una alternativa innovadora para mejorar los tratamientos de quemaduras, lesiones y enfermedades cutáneas. Con ello, buscamos aportar a una cobertura sanitaria más inclusiva, accesible y sostenible, generando impacto positivo en la calidad de vida de las personas.
+Durante este curso, orientaremos nuestros esfuerzos hacia el Objetivo de Desarrollo Sostenible 3: Salud y Bienestar, específicamente la Meta 3.8, que busca garantizar el acceso equitativo a servicios de salud esenciales de calidad y a tecnologías médicas seguras y eficaces. Nuestro proyecto se centra en la realización de un medidor de pH integrado con sensor de temperatura y hecho con electrodos de un nuevo polímero sintético conductor PEDOT:PSS, como una alternativa innovadora para mejorar la detección  de casos de acidosis y alcalosis, así como también una confirmación de infecciones cutáneas. Con ello, buscamos aportar a una cobertura sanitaria más inclusiva, accesible y sostenible, generando impacto positivo en la calidad de vida de las personas.
