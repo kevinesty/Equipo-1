@@ -18,7 +18,7 @@ Meta 3.8: Garantizar el acceso equitativo a servicios de salud esenciales de cal
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-  <img src="/Recursos/Imágenes/equipo.png" alt="Foto grupal del equipo" width="500"/><br>
+  <img src="/Recursos/Imágenes/Imagen de WhatsApp 2025-09-01 a las 13.14.31_c1107f03.jpg" alt="Foto grupal del equipo" width="500"/><br>
   <em> Fotografía del equipo 1</em>
 </p>
 
